@@ -1,0 +1,7 @@
+.heading  {    width: 80%;    font-size: 22px;  }
+#camera{  border: 2px dashed black;  width: 350px;  height: 300px;}
+body{
+    background-image: linear-gradient(to right, #83efff, #7ae6fe, #73ddfc, #6ed4f9, #6ccaf6, #81caf7, #92caf7, #a2caf6, #c1d5f9, #dbe2fb, #eff0fc, #ffffff);
+
+    font-family: cursive;
+}
